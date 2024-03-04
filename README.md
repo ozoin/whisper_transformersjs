@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/Web_Workers-Supported-brightgreen?logo=webassembly" alt="Web Workers">
   <img src="https://img.shields.io/badge/Transformers.js-2.4.2-orange?logo=javascript" alt="Transformers.js">
 </p>
+<h2>
+  Demo => https://transcribe-transformers.netlify.app
+</h2>
 Welcome to the React Transcriber & Translator App, current web application displays the power of web workers to run machine learning models directly in the browser. This project utilizes React for the frontend, Vite for a fast and efficient development experience, Tailwind CSS for sleek styling, and Web Workers to offload heavy computations for a seamless user experience.
 
 <hr/>
